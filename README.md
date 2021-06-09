@@ -9,5 +9,7 @@ This project is done by:
 4. Kamandanu - C3082753 as a Cloud Computing Path,
 5. Randu Fajar Alyansyah C0080801 as a Cloud Computing Path.
 
-Goal: to help people with color blindness and visual impairments to be able to distinguish between food ingredients that are still fresh or rotten
+Overview: AgroStock is a mobile application that aims to help people with color blindness and visual impairments to be able to distinguish between food ingredients that are still fresh or rotten. AgroStock applies machine learning technology to detect food ingredients that are still fresh or rotten by predicting the image entered by the user into the application, AgroStock checks the freshness of the food by inputting the image, then this application will see the color of the inputted food.
+
+Goal: to help people with color blindness and visual impairments to be able to distinguish between food ingredients that are still fresh or rotten.
 
