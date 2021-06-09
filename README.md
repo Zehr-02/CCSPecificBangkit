@@ -3,7 +3,7 @@ Capstone Project Bangkit
 
 B21-CAP0465: AgroStock Team
 This project is done by:
-1. Javas Alfreda Belva Y. P. - M3122775 as a Machine Learning Path,
+1. Javas Alfreda Belva Yoga Pratama - M3122775 as a Machine Learning Path,
 2. Bryan Johanes Roland Rantung A3092761 as a Mobile Development Path,
 3. Rheza Timothy Tedjo - A3092764 as a Mobile Development Path, 
 4. Kamandanu - C3082753 as a Cloud Computing Path,
