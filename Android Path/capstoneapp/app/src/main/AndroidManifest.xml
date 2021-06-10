@@ -15,19 +15,33 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Capstoneapp">
-        <activity android:name=".ui.recyclereinfo.DetailActivity"></activity>
-        <activity android:name=".ui.recyclereinfo.FruitsActivity" />
-        <activity android:name=".flashscreen.LoadingActivity">
+        <activity
+            android:name=".ui.recyclereinfo.DetailActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.recyclereinfo.FruitsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".flashscreen.LoadingActivity"
+            android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".login.LoginActivity" />
-        <activity android:name=".camera.CameraActivity" />
-        <activity android:name=".dashboard.NewsActivity" />
-        <activity android:name=".MainActivity" />
+        <activity
+            android:name=".login.LoginActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".camera.CameraActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".dashboard.NewsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".MainActivity"
+            android:screenOrientation="portrait" />
     </application>
 
 </manifest>
