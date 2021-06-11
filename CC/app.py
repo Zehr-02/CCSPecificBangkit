@@ -1,5 +1,6 @@
 from flask import Flask, request
 from flask_cors import CORS, cross_origin
+import predict
 import json
 
 app = Flask(__name__)
