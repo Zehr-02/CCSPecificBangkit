@@ -5,6 +5,7 @@ import numpy as np
 from PIL import Image
 from keras.preprocessing import image
 
+model = tf.keras.models.load_model('model.h5')
 model.compile(
     optimizer='adam',
     loss='categorical_crossentropy',
