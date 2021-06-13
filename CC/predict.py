@@ -5,7 +5,7 @@ import numpy as np
 from PIL import Image
 from keras.preprocessing import image
 
-model = tf.keras.models.load_model('rotten.h5')
+model = tf.keras.models.load_model('model-agrostock-3.h5')
 model.compile(
 
     optimizer='adam',
